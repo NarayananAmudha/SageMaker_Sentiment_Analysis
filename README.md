@@ -1,6 +1,6 @@
 # Udacity AWS SageMaker Deployment Project 
 
-##Sentiment Analysis on Movie Reviews
+## Sentiment Analysis on Movie Reviews
 
 ### Objective
 
